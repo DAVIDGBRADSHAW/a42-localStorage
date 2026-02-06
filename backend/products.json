@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1",
+    "image": "images/products/1.jpg",
+    "name": "Fish in the tank",
+    "rating": {
+      "stars": 0.0,
+      "count": 0
+    },
+    "priceCents": 999,
+    "keywords": [
+      "fish",
+      "tank",
+      "kids"
+    ]
+  },
+  {
+    "id": "2",
+    "image": "images/products/2.jpg",
+    "name": "Westport Mayo Ireland",
+    "rating": {
+      "stars": 0,
+      "count": 0
+    },
+    "priceCents": 2095,
+    "keywords": [
+      "ireland",
+      "river"
+    ]
+  },
+  {
+    "id": "3",
+    "image": "images/products/3.jpg",
+    "name": "Dublin BAY "
+    "rating": {
+      "stars": 0.0,
+      "count": 0
+    },
+    "priceCents": 1799,
+    "keywords": [
+      "Dublin",
+      "dublin",
+      "sailing"
+    ],
+  },
+  {
+    "id": "4",
+    "image": "images/products/4.jpg",
+    "name": "Lifeboat",
+    "rating": {
+      "stars": 0.0,
+      "count": 0
+    },
+    "priceCents": 1899,
+    "keywords": [
+      "RNLI",
+      "lifeboat",
+      "water"
+    ]
+  },
+  {
+    "id": "5",
+    "image": "images/products/5.jpg",
+    "name": "sun not",
+    "rating": {
+      "stars": 0.0,
+      "count": 0
+    },
+    "priceCents": 20000,
+    "keywords": [
+      "sun",
+      "space",
+      ""
+    ]
+  },
+  {
+    "id": "6",
+    "image": "images/products/6.jpg",
+    "name": "PHONIX PARK DUBBLIN IRELAND ",
+    "rating": {
+      "stars": 0.0,
+      "count": 0
+    },
+    "priceCents": 3499,
+    "keywords": [
+      "PARK",
+      "Dublin"
+    ]
+  },
+  {"id": "7",
+    "image": "images/products/7.jpg",
+    "name": "PHONIX PARK DUBBLIN IRELAND ",
+    "rating": {
+      "stars": 0.0,
+      "count": 0
+    },
+    "priceCents": 3499,
+    "keywords": [
+      "PARK",
+      "Dublin"
+    ]
+  },
+  
+  {
+    "id": "8",
+    "image": "images/products/8.jpg",
+    "name": "robin",
+    "rating": {
+      "stars": 0.0,
+      "count": 0
+    },
+    "priceCents": 100,
+    "keywords": [
+      "robin",
+      "birds",
+      "bird",
+      "outdoor",
+      "garden "
+    ]
+  },
+  {
+    "id": "9",
+    "image": "images/products/9.jpg",
+    "name": "ice ",
+    "rating": {
+      "stars":0.0,
+      "count": 0
+    },
+    "priceCents": 10000,
+    "keywords": [
+      "ice",
+      "icy"
+    ]
+  },
+]
